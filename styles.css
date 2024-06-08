@@ -69,7 +69,8 @@ form {
 footer {
   text-align: center;
   font-size: 12px;
-  color: rgb(130, 48, 207);
+  color: rgb(85, 84, 84);
+  opacity: 0.7;
 }
 .poem strong {
   color: rgb(130, 48, 207);
